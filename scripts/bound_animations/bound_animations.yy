@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bound_animations",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bound_animations",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

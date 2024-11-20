@@ -1,0 +1,6 @@
+draw_text_transformed(20, 20, "distance ahead = " + string(1 - (target.d_obstacle_ahead/target.sensor_view_hdist)), 2, 2, 0)
+draw_text_transformed(20, 50, "distance upahead = " + string(1 - (target.d_obstacle_uphead/target.sensor_view_hdist)), 2, 2, 0)
+draw_text_transformed(20, 80, "distance trampoline = " + string(1 - (target.d_trampoline_ahead/target.sensor_view_hdist)), 2, 2, 0)
+draw_text_transformed(20, 110, "distance aheadown = " + string(1 - (target.d_obstacle_aheadown/target.sensor_view_vdist)), 2, 2, 0)
+draw_text_transformed(20, 140, "distance up = " + string(target.d_obstacle_up/target.sensor_view_vdist), 2, 2, 0)
+draw_text_transformed(20, 170, "distance down = " + string(1 - (target.d_obstacle_down/target.sensor_view_vdist)), 2, 2, 0)

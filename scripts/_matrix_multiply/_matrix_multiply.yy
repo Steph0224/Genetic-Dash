@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"_matrix_multiply",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"_matrix_multiply",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

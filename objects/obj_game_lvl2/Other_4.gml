@@ -1,0 +1,1 @@
+audio_play_sound(snd_lvl2, 0, true)

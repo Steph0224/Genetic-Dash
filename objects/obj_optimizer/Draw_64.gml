@@ -1,0 +1,1 @@
+draw_text_transformed(600, 20, "gen = " + string(n_generations), 2, 2, 0)
